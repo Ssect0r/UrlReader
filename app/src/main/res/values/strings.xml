@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrlReader</string>
+    <string-array name="country">
+        <item>UK</item>
+        <item>FR</item>
+        <item>GER</item>
+    </string-array>
+</resources>
